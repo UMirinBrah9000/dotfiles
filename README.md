@@ -11,6 +11,7 @@
 * Vim
 * Picom
 * Firefox
+* Pulseaudio/pavucontrol
 ## Configs:
 configuration files are in the repo in the config directory.
 there are many different custom configs make sure to check them out.
